@@ -1,0 +1,43 @@
+.bk1 {
+    background-color: lightblue;
+    border: 2px solid black;
+    text-align: center;
+}
+.bk2 {
+    background-color: lightgrey;
+    border: 2px solid black;
+    text-align: center;
+}
+.bk3 {
+    background-color: rgb(70, 190, 70);
+    border: 2px solid black;
+    text-align: center;
+}
+.bk4 {
+    background-color: orange;
+    border: 2px solid black;
+    text-align: center;
+}
+.bk5 {
+    background-color: lightpink;
+    border: 2px solid black;
+    text-align: center;
+}
+.bk6 {
+    background-color: rgb(226, 107, 107);
+    border: 2px solid black;
+    text-align: center;
+}
+.nameGame{
+    text-align: center;
+}
+.block{
+    display: block;
+}
+.none{
+    display: none;
+}
+.quest {
+    border: 1px solid black;
+    padding: 20%;
+}
